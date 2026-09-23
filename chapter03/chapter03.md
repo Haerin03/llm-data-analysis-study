@@ -8,7 +8,7 @@
 - 이름: 전해린
 - GitHub ID: Haerin03
 - 작성일: 2026.09.19
-- 최종 제출 URL: https://github.com/Haerin03/llm-data-analysis-study/blob/main/chapter02/chapter03.ipynb
+- 최종 제출 URL: https://github.com/Haerin03/llm-data-analysis-study/blob/main/chapter03/chapter03.ipynb
 
 ## 1. 데이터 로딩과 구조 확인
 ### 실행/결과
